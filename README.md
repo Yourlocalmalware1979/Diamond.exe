@@ -9,7 +9,7 @@
 
 > [!NOTE]
 > This malware doesn't work on Windows XP
-> 
+
 > [!TIP]
 > if you want to run it on Windows xp you need to install One-Core-API-Binaries.
 > you can't trust my malwares
