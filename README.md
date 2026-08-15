@@ -8,5 +8,5 @@
 > if Windows Vista Is still slow try Windows 7
 
 > [!NOTE]
-> This malware doesn't work on Windows XP
-> you can only run windows xp using one core api binaries
+> This malware doesn't work on Windows XP 32bit
+> you can only run windows xp 64bit using one core api binaries
